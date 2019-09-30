@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="container_listView" type="id" />
+    <item name="txtNameArtist" type="id" />
+    <item name="btnAdd" type="id" />
+    <item name="genre" type="id" />
+</resources>
